@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
                 //Developer comments
                 String a= "Sdfaass";
+
+                //Second developer comments
+                String b = "Kdsasdsasds";
             }
         });
     }
