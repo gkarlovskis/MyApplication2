@@ -26,6 +26,9 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with new action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 Log.d("TESTS","Master Branch");
+
+                //Developer comments
+                String a= "Sdfaass";
             }
         });
     }
